@@ -1,0 +1,5 @@
+pymagnitude
+torch
+pandas
+numpy
+scikit-learn
